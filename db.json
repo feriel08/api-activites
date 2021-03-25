@@ -1,0 +1,116 @@
+{
+    "acctivites":
+    [
+        {
+            "id" : "0",
+            "nom" : "Alivava parc de loisirs",
+            "description" : "un parc à Bejaia ville une destination des familles de chaque place fournit un confort et loisir et de différents jeux pour les jeunes ainsi que un musée du Parc national de Gouraya .",
+            "adresse": "Boulevard Krim Belkacem, Béjaïa",
+            "email" : "alivava.com@gmail.com",
+            "réseaux sociaux" : "https://www.facebook.com/parc.alivava" ,
+            "url1":"https://3.bp.blogspot.com/-pFfNNDrSmSM/WdexZ7zmCUI/AAAAAAAAjx8/76qJj2720Z8SNZ1C8C9gpI1aKTNmVQQ5gCLcBGAs/s1600/15.jpg",
+            "url2 ": "https://4.bp.blogspot.com/-LG3UTflp-ps/WdexZ5Pn_4I/AAAAAAAAjx4/nymy4ypX8V8iRlmhbV0KMc5BZtvIYYxWwCLcBGAs/s1600/16.jpg",
+            "url3":"https://3.bp.blogspot.com/-_ndsyA95-tE/Wdexa7ZaZNI/AAAAAAAAjyE/8RcfcCwZU6guCuIp8nBr3Fq9HRA2ZXQRACLcBGAs/s1600/18.jpg",
+            "url4":"https://3.bp.blogspot.com/-fcWudvMgKlA/WdexVRk5o8I/AAAAAAAAjxI/eiBFf88NUskG-HlcPxyAs-3SbP4Y_bKYQCLcBGAs/s1600/02.jpg",
+            "téléphone" : "0561 63 25 81",
+            "longitude" : "36.74490271368189",
+            "latitude" : "5.049046157343788"
+             },
+                {
+            
+             "id": "1",
+                    "nom": "Kayak Bejaia",
+                    "description": "Activité idéale pour passer un super moment, très sympathique et agréable avec une équipe formidable, un accueil chaleureux, a un prix abordable et raisonnable, cette sortie va vous permettre de découvrir notre magnifique BOUGIE comme vous ne l’aviez encore jamais vu.",
+                    "adresse": "Les Aiguades, Béjaïa",
+                    "email": "kayakbejaia@gmail.com",
+                    "reseaux sociaux": "https://www.facebook.com/KayakBejaia",
+                    "url1": "https://www.vinyculture.com/wp-content/uploads/2016/07/kayak-mer.jpg",
+                    "url2": "https://pbs.twimg.com/media/D8OeSwJXYAAa8oo?format=jpg&name=large",
+                    "url3": "https://pbs.twimg.com/media/D8AzU3tXUAA6GQg?format=jpg&name=large",
+                    "url4": "https://pbs.twimg.com/media/D8OeM5CXkAEzTLN?format=jpg&name=large",
+                    "telephone": "0550 15 75 76",
+                    "longitude": "36.77557520483875",
+                    "latitude": " 5.103717405868228"
+             },
+                {
+             "id": "2",
+                    "nom": "Thalassotherapie",
+                    "description": "une cure qui va vous permettre de prendre soin de votre corps et de votre esprit grâce aux vertus de l'eau de mer.",
+                    "adresse": "Tichy, Béjaïa",
+                    "email": "contact@hotelcluballoui.com",
+                    "reseaux sociaux": "https://www.facebook.com/pages/Hotel%20club%20alloui%20BEjAIA/15605   0097796635/",
+                    "url1": "",
+                    "url2": "http://hotelcluballoui.com/wp-content/uploads/2016/05/bain-mort-03.jpg",
+                    "url3": "http://hotelcluballoui.com/wp-content/uploads/2016/05/couette-chaufante.jpg",
+                    "url4": "http://hotelcluballoui.com/wp-content/uploads/2016/05/guomage-01.jpg",
+                    "telephone": "(+213) 034 81 65 17/15",
+                    "longitude": "36.67060688568195",
+                    "latitude": "5.151752694616585"
+                },
+                {
+                   
+                    "id": "3",
+                    "nom": "Baptême en parapente ",
+                    "description": "Cette activité se déroule en toute sécurité avec un moniteur expert auquel vous serez solidement attaché. Le décollage et l'atterrissage lors de votre vol en parapente se feront tout en douceur et, en plus des sensations, vous pourrez admirer un panorama fantastique.",
+                    "adresse": "melbou, Béjaïa",
+                    "email": "",
+                    "reseaux sociaux": "https://www.facebook.com/watch/Parapente.dz/",
+                    "url1": "https://baptemeparapente.com/wp-content/uploads/2011/01/tarif-bapteme-parapente.jpg",
+                    "url2": "https://i.ytimg.com/vi/1iesa-eyk8c/hqdefault.jpg",
+                    "url3": "https://www.annecy-parapente.fr/media/cache/activity_picture/2019/11/4846-snesatioons.jpg",
+                    "url4": "https://woom-bucket-prod.s3.amazonaws.com/experience_pictures/images/000/017/845/web_large_webp/biplace1.webp?1591176940",
+                    "telephone": "0770 32 35 54",
+                    "longitude": "null",
+                    "latitude": "null"
+                },
+                {
+                   
+                    "id": "4",
+                    "nom": "Snorkeling",
+                    "description": "Le snorkeling ou la randonnée palmée ou la randonnée subaquatique (avec palmes, masque et tuba), est une activité de loisir aquatique d'observation des fonds et des espèces vivantes sous-marines.",
+                    "adresse": "null",
+                    "email": "null",
+                    "reseaux sociaux": "https://www.facebook.com/Le-club-des-aventuriers-353048505416723",
+                    "url1": "https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/39234695_247765239277725_2412372264172388352_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeEwVxrx7bhPWdPZ8aYKjpRoJrO0rqzh1osms7SurOHWi9ZG3iSPXXlSqdsGnoq0SeCSlP5f0azIhJMFnlYcJpkr&_nc_ohc=48jwzVxnyVkAX_bQkgi&_nc_ht=scontent-amt2-1.xx&oh=17b4efc57ec99823f81667775a30c3ea&oe=6080DE5C",
+                    "url2": "https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/73498058_452746655446248_3692971902264934400_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeErmN2QfyhBUkiR2vln51w0BRTEk501DSMFFMSTnTUNI0bW6ONV7lQIBDw97RHTUnJuIAILFsulYw_RTgnB2RQY&_nc_ohc=pwgiOtpgwJYAX8JvflI&_nc_ht=scontent-amt2-1.xx&oh=0e1e9f315d32df45bc66514ff5b14f6e&oe=60842DA4",
+                    "url3": "null",
+                    "url4": "null",
+                    "telephone": "null",
+                    "longitude": "null",
+                    "latitude": "null"
+                },
+                {
+                   
+                    "id": "5",
+                    "nom": "Randonnée pédestre",
+                    "description": "Activité de plein air qui s'effectue à pied en suivant un itinéraire, en groupe. C'est à la fois un sport et un loisir de découverte et de contemplation.",
+                    "adresse": "null",
+                    "email": "null",
+                    "reseaux sociaux": "https://www.facebook.com/groups/131849083627337/user/100035576053663",
+                    "url1": "http://i1.wp.com/news-360.info/wp-content/uploads/2017/02/randonneurs-du-Djurdjura-Beja%C3%AFa.jpg?resize=783%2C445",
+             "url2": "http://aokassportsetloisirs.e-monsite.com/medias/images/sam-0147.jpg?fx=r_640_640",
+             "url3": "http://aokassportsetloisirs.e-monsite.com/medias/images/sam-0048-1.jpg?fx=r_640_640",
+             "url4": "https://www.blog-lifestyle.fr/wp-content/uploads/2018/04/comment-preparer-sa-randonnee.jpg",
+                    "telephone": "null",
+                    "longitude": "null",
+                    "latitude": "null"
+                },
+                {
+                   
+                    "id": "6",
+                    "nom": "Tyrolienne ",
+                    "description": "La tyrolienne est une activité riche en adrénaline, qui ravira les amateurs de sensations fortes, elle consiste à se déplacer dans les airs, grâce à une poulie rattachée à un câble ou une corde. Vous êtes rattaché à la poulie par l’intermédiaire de votre baudrier, ce qui vous permet de vous élancer en toute sécurité à plusieurs mètres du sol.",
+                    "adresse": "Derguina,Bejaia .",
+                    "email": "null",
+                    "reseaux sociaux": "null",
+                    "url1": "https://cdn-s-www.ledauphine.com/images/8B9922CE-8B1E-415C-9A81-F9CF215E750F/NW_detail/title-1595082494.jpg",
+                    "url2": "https://www.leparisien.fr/resizer/2zmoCiqF9SZRMizPDquijjECevg=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/FES67BSF2RHFXUOCUSJPQDZAOE.jpg",
+                    "url3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXEtnpqENxwJoVyxJ3Zc27Cm_ZvUUxqe94A&usqp=CAU",
+                    "url4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EFUUMwXxXVoLH9mEkgwCSxOhsZ2BlQZLOg&usqp=CAU",
+                    "telephone": "null",
+                    "longitude": "36.54619883047033",
+                    "latitude": "5.316194677188591"
+                }
+            
+    ]
+}
