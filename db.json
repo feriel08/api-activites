@@ -16,8 +16,8 @@
                 "url3":"https://3.bp.blogspot.com/-_ndsyA95-tE/Wdexa7ZaZNI/AAAAAAAAjyE/8RcfcCwZU6guCuIp8nBr3Fq9HRA2ZXQRACLcBGAs/s1600/18.jpg",
                 "url4":"https://3.bp.blogspot.com/-fcWudvMgKlA/WdexVRk5o8I/AAAAAAAAjxI/eiBFf88NUskG-HlcPxyAs-3SbP4Y_bKYQCLcBGAs/s1600/02.jpg",
                 "telephone" : "0561 63 25 81",
-                "longitude" : " 5.049046157343788",
-                "latitude" : "36.74490271368189"
+                "latitude" : "36.74490271368189",
+                "longitude" : " 5.049046157343788" 
                  },
                     {
                 
@@ -27,13 +27,14 @@
                         "adresse": "Les Aiguades, Béjaïa",
                         "email": "kayakbejaia@gmail.com",
                         "reseaux_sociaux": "https://www.facebook.com/KayakBejaia",
-                        "url1": "https://www.vinyculture.com/wp-content/uploads/2016/07/kayak-mer.jpg",
-                        "url2": "https://pbs.twimg.com/media/D8OeSwJXYAAa8oo?format=jpg&name=large",
-                        "url3": "https://pbs.twimg.com/media/D8AzU3tXUAA6GQg?format=jpg&name=large",
-                        "url4": "https://pbs.twimg.com/media/D8OeM5CXkAEzTLN?format=jpg&name=large",
+                        "url1": "https://i1.wp.com/voyagerdz.com/wp-content/uploads/2019/07/cropped-66124374_2222861791165445_7849899026680905728_n.jpg?fit=684%2C384&ssl=1",
+                        "url2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaay9BBF0jeNCjrtGdnTMvlucZ7xQaGrsqNw&usqp=CAU",
+                        "url3": "https://scontent-ams4-1.xx.fbcdn.net/v/t1.0-9/66769699_393541054700142_5110329213232087040_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=e3f864&_nc_ohc=EDTjja48-jMAX959uSA&_nc_ht=scontent-ams4-1.xx&oh=833a7cc8cd8644a7a1bd87b11e579543&oe=6083BDF6",
+                        "url4": "null",
                         "telephone": "0550 15 75 76",
-                        "longitude": " 5.103717405868228",
-                        "latitude": "36.77557520483875 "
+                        "latitude": "36.77557520483875 " ,
+                        "longitude": " 5.103717405868228"
+                        
                  },
                     {
                  "id": "2",
@@ -47,8 +48,9 @@
                         "url3": "http://hotelcluballoui.com/wp-content/uploads/2016/05/couette-chaufante.jpg",
                         "url4": "http://hotelcluballoui.com/wp-content/uploads/2016/05/guomage-01.jpg",
                         "telephone": "(+213) 034 81 65 17/15",
-                        "longitude": "5.151752694616585 ",
-                        "latitude": "36.67060688568195"
+                        "latitude": "36.67060688568195",
+                         "longitude": "5.151752694616585 "
+                        
                     },
                     {
                        
@@ -63,8 +65,9 @@
                         "url3": "https://www.annecy-parapente.fr/media/cache/activity_picture/2019/11/4846-snesatioons.jpg",
                         "url4": "https://woom-bucket-prod.s3.amazonaws.com/experience_pictures/images/000/017/845/web_large_webp/biplace1.webp?1591176940",
                         "telephone": "0770 32 35 54",
-                        "longitude": "null",
-                        "latitude": "null"
+                        "latitude": "null" ,
+                        "longitude": "null"
+                        
                     },
                     {
                        
@@ -79,8 +82,9 @@
                         "url3": "null",
                         "url4": "null",
                         "telephone": "null",
-                        "longitude": "null",
-                        "latitude": "null"
+                        "latitude": "null",
+                         "longitude": "null"
+                        
                     },
                     {
                        
@@ -95,8 +99,9 @@
                  "url3": "http://aokassportsetloisirs.e-monsite.com/medias/images/sam-0048-1.jpg?fx=r_640_640",
                  "url4": "https://www.blog-lifestyle.fr/wp-content/uploads/2018/04/comment-preparer-sa-randonnee.jpg",
                         "telephone": "null",
-                        "longitude": "null",
-                        "latitude": "null"
+                        "latitude": "null" ,
+                        "longitude": "null"
+                       
                     },
                     {
                        
@@ -111,13 +116,15 @@
                         "url3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXEtnpqENxwJoVyxJ3Zc27Cm_ZvUUxqe94A&usqp=CAU",
                         "url4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EFUUMwXxXVoLH9mEkgwCSxOhsZ2BlQZLOg&usqp=CAU",
                         "telephone": "null",
-                        "longitude": "5.316194677188591",
-                        "latitude": " 36.54619883047033"
+                        "latitude": " 36.54619883047033",
+                        "longitude": "5.316194677188591"
+                        
                     }
                 
         ]
     }}
        
+    
     
        
     
